@@ -5,7 +5,7 @@ $SetName = Read-Host -Prompt "Name The VM"
 #These settings need to be check and configured
 
 $VMName = $SetName
-$VMPath = "h:\VM-10\"
+$VMPath = "h:\VM-10\zz"
 $Gen = "2"
 $HDD = "h:\VM-10\$SetName\Virtual Hard Disk\$SetName.VHDX"
 $Mem = 1GB
