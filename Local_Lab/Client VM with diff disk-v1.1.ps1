@@ -43,4 +43,4 @@ Set-VMFirmware -VMName $VMName -BootOrder $Var2, $Var1
 Connect-VMNetworkAdapter -VMName $VMName -SwitchName $Switch1
 
 
-123345
+999
