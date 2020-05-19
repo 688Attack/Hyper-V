@@ -41,3 +41,6 @@ Set-VMFirmware -VMName $VMName -BootOrder $Var2, $Var1
 #Connects the VM to a virtual network switch
 
 Connect-VMNetworkAdapter -VMName $VMName -SwitchName $Switch1
+
+
+123
